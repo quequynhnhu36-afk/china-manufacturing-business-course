@@ -12,6 +12,7 @@
 - 经营变量是什么
 - 运营问题如何传导到财务结果
 - 为什么销量增长不等于经营变好
+- 如何画出订单、产能、成本、库存、现金、质量之间的因果链
 
 ### 模块二：整车业务拆解
 
@@ -40,10 +41,26 @@
 
 每个案例必须输出一页业务判断。
 
+## 12周对应关系
+
+| 周次 | 主题 | 教材/模板 | 产出 |
+| --- | --- | --- | --- |
+| 1 | 业务单元模型 | `textbook/01-business-unit-model.md` | 选定一个业务单元 |
+| 2 | 经营变量传导 | `textbook/02-operating-variable-transmission.md` | 一张传导链 |
+| 3 | 订单与客户 | `textbook/03-orders-customers.md` | 订单判断 |
+| 4 | 产能与交付 | `textbook/04-capacity-delivery.md` | 产能判断 |
+| 5 | 成本与毛利 | `textbook/05-cost-margin.md` | 毛利判断 |
+| 6 | 库存与现金 | `textbook/06-inventory-cash.md` | 现金判断 |
+| 7 | 质量与组织 | `textbook/07-quality-organization.md` | 质量组织判断 |
+| 8 | 产业链穿透 | `textbook/08-strategy-from-operations.md` | 供应链约束笔记 |
+| 9 | 案例实战一 | `cases/li-auto`、`cases/xiaomi-auto`、`cases/xpeng` | 三家公司草稿 |
+| 10 | 案例实战二 | `cases/nio`、`cases/leapmotor` | 两家公司草稿 |
+| 11 | 同行对比 | `templates/peer-comparison-table.md` | 对比表 |
+| 12 | 一页判断 | `textbook/09-one-page-business-judgment.md` | 最终 memo |
+
 ## 每周产出
 
 - 1张学习卡
 - 1份公开来源清单
 - 1份经营变量笔记
 - 1份一页业务判断草稿
-
